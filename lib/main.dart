@@ -18,7 +18,11 @@ void main() => runApp(
           Column(
             children: <Widget>[
               Text(
-                'Testando o Git',
+                'Crie belas UIs',
+                textDirection: TextDirection.ltr,
+              ),
+              Text(
+                'Crie belas UIs',
                 textDirection: TextDirection.ltr,
               ),
             ],
