@@ -1,4 +1,4 @@
-import 'package:bytebank/Tranferencia.dart' show Tranferencia;
+import 'package:bytebank/Transferencia.dart' show Tranferencia;
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 

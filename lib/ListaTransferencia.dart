@@ -1,4 +1,4 @@
-import 'package:bytebank/Tranferencia.dart';
+import 'package:bytebank/Transferencia.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'ItemTransferencia.dart';
@@ -13,7 +13,6 @@ class ListaTransferencia extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         title: Text('Transferências'),
-        backgroundColor: Colors.green,
       ),
       body: Column(
         //alt + enter para colocar os card dentro do column

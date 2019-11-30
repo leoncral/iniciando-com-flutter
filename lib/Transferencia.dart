@@ -4,4 +4,9 @@ class Tranferencia {
   final int numeroConta;
 
   Tranferencia(this.valor, this.numeroConta);
+
+  @override
+  String toString() {
+    return 'Tranferencia{valor: $valor, numeroConta: $numeroConta}';
+  }
 }
