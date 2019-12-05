@@ -1,4 +1,5 @@
-import 'package:flutter/cupertino.dart' show BuildContext, StatelessWidget, Widget;
+import 'package:bytebank/ListaTransferencia.dart';
+import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
 import 'FormularioTransferencia.dart';
@@ -9,7 +10,7 @@ class ByteBankApp extends StatelessWidget {
     // TODO: implement build
     return MaterialApp(
       home: Scaffold(
-        body: FormularioTransferencia(),
+        body: ListaTransferencia(),
       ),
     );
   }
