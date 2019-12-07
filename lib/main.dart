@@ -1,4 +1,4 @@
-import 'package:bytebank/ByteBankApp.dart';
+import 'package:bytebank/byte_bank_app.dart';
 import 'package:flutter/material.dart';
 
 

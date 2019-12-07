@@ -1,7 +1,7 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
-import 'Transferencia.dart';
+import 'models/transferencia.dart';
 
 class ItemTransferencia extends StatelessWidget {
 
